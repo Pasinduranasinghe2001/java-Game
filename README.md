@@ -30,4 +30,4 @@ The game includes sound effects, background music, and a graphical user interfac
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Str
